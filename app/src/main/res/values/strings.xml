@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">BusinessCard</string>
+    <string name="fullname">Kevin Vasco Pérez</string>
+    <string name="grade">Multi-platform Application Development</string>
+    <string name="email">kevin.vasco@educa.madrid.org</string>
+    <string name="phonenum">123456789</string>
+    <string name="location">https://www.palomafp.org/</string>
+</resources>
